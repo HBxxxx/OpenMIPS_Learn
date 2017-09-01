@@ -1,0 +1,29 @@
+E:/cpu-design/ex/chap2/inst_fetch.v {1 {vlog -work work -vopt E:/cpu-design/ex/chap2/inst_fetch.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module inst_fetch
+
+Top level modules:
+	inst_fetch
+
+} {} {}} E:/cpu-design/ex/chap2/pc_reg.v {1 {vlog -work work -vopt E:/cpu-design/ex/chap2/pc_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} E:/cpu-design/ex/chap2/inst_fetch_tb.v {1 {vlog -work work -vopt E:/cpu-design/ex/chap2/inst_fetch_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module inst_fetch_tb
+
+Top level modules:
+	inst_fetch_tb
+
+} {} {}} E:/cpu-design/ex/chap2/rom.v {1 {vlog -work work -vopt E:/cpu-design/ex/chap2/rom.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}}

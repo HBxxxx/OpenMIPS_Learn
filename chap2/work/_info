@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files\ModelSim\examples
+T_opt
+V]YXekYzM[1agGcm5Ua00c0
+04 13 4 work inst_fetch_tb fast 0
+=1-001f3b89e577-5991881c-298-6e8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vinst_fetch
+!s100 e508oH_=BdboVz`CY[1ic3
+I3@Q@^b3ZP5EQ=6H_N?OZQ3
+VWEd2mC5U0jM6F8b;n3z;z1
+Z0 dE:\cpu-design\ex\chap2
+w1502705563
+8E:/cpu-design/ex/chap2/inst_fetch.v
+FE:/cpu-design/ex/chap2/inst_fetch.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|E:/cpu-design/ex/chap2/inst_fetch.v|
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1502709754.371000
+!s107 E:/cpu-design/ex/chap2/inst_fetch.v|
+!i10b 1
+!s85 0
+vinst_fetch_tb
+!s100 Z3RMTJno9C[nB^PhHaIJ?0
+I`GMNOai21hdPRK0]9efnI1
+VCF3=cYRUF236XjObeI;b?2
+Z3 dE:\cpu-design\ex\chap2
+w1502709511
+8E:/cpu-design/ex/chap2/inst_fetch_tb.v
+FE:/cpu-design/ex/chap2/inst_fetch_tb.v
+L0 1
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|E:/cpu-design/ex/chap2/inst_fetch_tb.v|
+R2
+!s108 1502709754.555000
+!s107 E:/cpu-design/ex/chap2/inst_fetch_tb.v|
+!i10b 1
+!s85 0
+vpc_reg
+!s100 IhXCR18BdzQ@Fl4aQ3R2S2
+IO4gkE76Pa6_m1]6gQ7kab1
+VnibCc:EVTOWmh0o1Y6^<n1
+R3
+w1502704713
+8E:/cpu-design/ex/chap2/pc_reg.v
+FE:/cpu-design/ex/chap2/pc_reg.v
+L0 1
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|E:/cpu-design/ex/chap2/pc_reg.v|
+R2
+!s108 1502709754.791000
+!s107 E:/cpu-design/ex/chap2/pc_reg.v|
+!i10b 1
+!s85 0
+vrom
+IzES]i`1Y:X@A0Zi?Wn6jb3
+VLkmT@11gz;lhLc5AOZQ?U2
+R3
+w1502709746
+8E:/cpu-design/ex/chap2/rom.v
+FE:/cpu-design/ex/chap2/rom.v
+L0 1
+R1
+r1
+31
+R2
+!i10b 1
+!s100 MFN1=A4D0aLfn`[Di;jmk0
+!s85 0
+!s108 1502709755.053000
+!s107 E:/cpu-design/ex/chap2/rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/cpu-design/ex/chap2/rom.v|
